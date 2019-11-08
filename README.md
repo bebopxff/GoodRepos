@@ -19,3 +19,9 @@ https://github.com/vibora-io/benchmarks
 多版本管理
 
 https://github.com/pyenv/pyenv
+
+数据库
+
+https://cassandra.apache.org/doc/latest/
+
+http://docs.couchdb.org/en/stable/
