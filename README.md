@@ -33,3 +33,11 @@ https://github.com/lealone lealone.js
 Kubernets
 
 https://github.com/kubernetes-client/python
+
+Downloader
+
+https://github.com/iawia002/annie Fast, simple and clean video downloader
+
+Visualization
+
+https://github.com/Microsoft/SandDance Visually explore, understand, and present your data.
