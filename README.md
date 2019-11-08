@@ -25,3 +25,5 @@ https://github.com/pyenv/pyenv
 https://cassandra.apache.org/doc/latest/
 
 http://docs.couchdb.org/en/stable/
+
+https://pingcap.com/blog/tidb-in-the-browser-running-a-golang-database-on-webassembly/ DB in Brower (like Lean.js, frontend ORM)
