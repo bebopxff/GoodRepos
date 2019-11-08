@@ -1,10 +1,14 @@
 # GoodRepos
 
-搜索
+搜索引擎
 
 https://github.com/asciimoo/searx
 
 https://github.com/kvch/searx-admin
+
+全文搜索
+
+https://github.com/valeriansaliou/sonic
 
 网站开发框架
 
